@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<modDesc descVersion="12">
+
+    <author>KLL</author>
+
+    <version>1.0</version>		
+
+	<title>
+        <en>Density Mod</en>
+		<it>Density Mod</it>
+    </title>
+	
+    <description>
+        <en>Increase Field Yield</en>
+		<it>Aumenta quantita' raccolto</it>
+    </description>
+
+	<iconFilename>
+		<en>icon.dds</en>
+	</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+
+		<sourceFile filename="densityMod.lua" />
+
+    </extraSourceFiles>
+
+</modDesc>
